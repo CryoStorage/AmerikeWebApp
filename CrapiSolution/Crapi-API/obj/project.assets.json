@@ -10125,24 +10125,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Azul8\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\3\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Azul8\\Desktop\\repo\\AmerikeWebApp\\CrapiSolution\\Crapi-API\\Crapi-API.csproj",
+      "projectUniqueName": "C:\\Users\\3\\repo\\AmerikeWebApp\\CrapiSolution\\Crapi-API\\Crapi-API.csproj",
       "projectName": "Crapi-API",
-      "projectPath": "C:\\Users\\Azul8\\Desktop\\repo\\AmerikeWebApp\\CrapiSolution\\Crapi-API\\Crapi-API.csproj",
-      "packagesPath": "C:\\Users\\Azul8\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Azul8\\Desktop\\repo\\AmerikeWebApp\\CrapiSolution\\Crapi-API\\obj\\",
+      "projectPath": "C:\\Users\\3\\repo\\AmerikeWebApp\\CrapiSolution\\Crapi-API\\Crapi-API.csproj",
+      "packagesPath": "C:\\Users\\3\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\3\\repo\\AmerikeWebApp\\CrapiSolution\\Crapi-API\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Azul8\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\3\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
