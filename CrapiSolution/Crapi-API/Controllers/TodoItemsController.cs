@@ -28,7 +28,7 @@ namespace Crapi_API.Controllers
           {
               return NotFound();
           }
-            return await _context.TodoItems.ToListAsync();
+                return await _context.TodoItems.ToListAsync();
         }
 
         // GET: api/TodoItems/5

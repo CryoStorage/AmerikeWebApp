@@ -1,4 +1,7 @@
-﻿namespace TodoApi.Models
+﻿using Microsoft.EntityFrameworkCore;
+using Crapi_API.Models;
+
+namespace TodoApi.Models
 {
     public class TodoItem
     {
